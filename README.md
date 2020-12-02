@@ -7,3 +7,19 @@ https://youtu.be/6ICVsi2pWyk
 
 Plase support us to keep the work up if you think this is usefull. No minimum amout.
 PayPal: milansachithra@gmail.com
+
+# Configuration 
+
+set sourse images folder: line 13
+
+set output folder: line 15
+
+set fill or make transparent the background: line 22
+
+set background fill color: line 18 to 20 (enter RGB values from 0 to 255)
+
+# help us to  keep the work up
+
+Donations : PayPal milansachithra@gmail.com
+
+YouTube subscribe: https://www.youtube.com/channel/UCfCZ8sBw4YCKnaTyH-FAXGA/featured
