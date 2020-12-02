@@ -19,7 +19,7 @@ colorRef.rgb.red = 255;
 colorRef.rgb.green = 255;
 colorRef.rgb.blue = 255;
 //Set blow to true to make the background transparent.
-var isTransparent = false;
+var isTransparent = true;
 //-----------------------------------------------------------------------------------
 
 
