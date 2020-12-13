@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------------------------
 This scripts is created by Kavindu Pasan Kavithilaka
 on 2020-03-15
-updatedon 2020-12-13
+updated on 2020-12-13
 This scripts supports Photoshop CC 2020 and above versions.
 How to use the script: https://youtu.be/6ICVsi2pWyk
 --------------------------------------------------------------------------------------*/
