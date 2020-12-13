@@ -26,5 +26,3 @@ YouTube subscribe: https://www.youtube.com/channel/UCfCZ8sBw4YCKnaTyH-FAXGA/feat
 
 # Contact me
 kavithipublications@gmail.com 
-
-WhatsApp: +94770178340
