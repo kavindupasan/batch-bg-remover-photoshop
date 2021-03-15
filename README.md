@@ -19,7 +19,7 @@ set fill or make transparent the background: line 22
 set background fill color: line 18 to 20 (enter RGB values from 0 to 255)
 
 # New features
-Support for custome background images added in v2. https://github.com/kavindupasan/batch-bg-remover-photoshop/blob/v2/remove-bg.jsx
+Support for custom background images added in v2. https://github.com/kavindupasan/batch-bg-remover-photoshop/blob/v2/remove-bg.jsx
 
 # Help us to  keep the work up
 
