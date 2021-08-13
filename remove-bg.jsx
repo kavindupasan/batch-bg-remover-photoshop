@@ -41,10 +41,10 @@ var isImageBg = true;
   {
 	//The following line will list all files (not only image files) on the source folder.
 	//If you have any non-image files (even hidden) , please see the next comment.
-    var fileList = sourceFolder.getFiles();
+    	//var fileList = sourceFolder.getFiles();
 	//Comment the above line and uncomment the following line to filter specific file types.
 	//Try filter files types if the script fails.
-	//var fileList = sourceFolder.getFiles(/\.(jpg|png|tif|psd|crw|cr2|nef|dcr|dc2|raw|heic)$/i);
+	var fileList = sourceFolder.getFiles(/\.(jpg|jpeg|png|tif|psd|crw|cr2|nef|dcr|dc2|raw|heic)$/i);
   }
   else{
 	  alert("No images found on source folder");
