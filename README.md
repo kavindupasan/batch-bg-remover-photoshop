@@ -23,8 +23,10 @@ Support for custom background images added in v2. https://github.com/kavindupasa
 
 # Help us to  keep the work up
 
-Donations : PayPal milansachithra@gmail.com
-BTC: bitcoin:BC1QV72SP7PS6Z2TCW7AMZ3C4LHC7V7FKGU74VDMK6?label=PS%20Script&message=Thank%20you%20for%20supporting%20us
+# Donations
+PayPal: milansachithra@gmail.com
+
+BTC:BC1QV72SP7PS6Z2TCW7AMZ3C4LHC7V7FKGU74VDMK6
 
 # Contact me
 kavithipublications@gmail.com 
