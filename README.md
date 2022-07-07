@@ -24,6 +24,7 @@ Added support to use a preset image as background. change variable on line 25 to
 # Help us to  keep the work up
 
 Donations : PayPal milansachithra@gmail.com
+BTC: bitcoin:BC1QV72SP7PS6Z2TCW7AMZ3C4LHC7V7FKGU74VDMK6?label=PS%20Script&message=Thank%20you%20for%20supporting%20us
 
 YouTube subscribe: https://www.youtube.com/channel/UCfCZ8sBw4YCKnaTyH-FAXGA/featured
 
