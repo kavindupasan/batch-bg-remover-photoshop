@@ -26,7 +26,7 @@ Support for custom background images added in v2. https://github.com/kavindupasa
 # Donations
 PayPal: milansachithra@gmail.com
 
-BTC:BC1QV72SP7PS6Z2TCW7AMZ3C4LHC7V7FKGU74VDMK6
+BTC: BC1QV72SP7PS6Z2TCW7AMZ3C4LHC7V7FKGU74VDMK6
 
 # Contact me
 kavithipublications@gmail.com 
