@@ -24,8 +24,7 @@ Support for custom background images added in v2. https://github.com/kavindupasa
 # Help us to  keep the work up
 
 Donations : PayPal milansachithra@gmail.com
-
-YouTube subscribe: https://www.youtube.com/channel/UCfCZ8sBw4YCKnaTyH-FAXGA/featured
+BTC: bitcoin:BC1QV72SP7PS6Z2TCW7AMZ3C4LHC7V7FKGU74VDMK6?label=PS%20Script&message=Thank%20you%20for%20supporting%20us
 
 # Contact me
 kavithipublications@gmail.com 
