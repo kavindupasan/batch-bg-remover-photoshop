@@ -1,16 +1,3 @@
-/*------------------------------------------------------------------------------------
-This scripts is created by Kavindu Pasan Kavithilaka
-on 2020-03-15
-updated on 2020-12-13
-This scripts supports Photoshop CC 2020 and above versions.
-How to use the script: https://youtu.be/6ICVsi2pWyk
---------------------------------------------------------------------------------------*/
-
-
-/*------------------------------------------------------------------------------------
-Configure following paramers before running the script
---------------------------------------------------------------------------------------*/
-//Place all images needs to be processed in a folder. Add the path below.
 var sourceFolder = Folder("C:\\ps\\src");
 //Add the path of an existing folder below to save the output.
 var saveFolder = new Folder("C:\\ps\\out");
