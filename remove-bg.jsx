@@ -11,9 +11,9 @@ How to use the script: https://youtu.be/6ICVsi2pWyk
 Configure following paramers before running the script
 --------------------------------------------------------------------------------------*/
 //Place all images needs to be processed in a folder. Add the path below.
-var sourceFolder = Folder("C:\\ps\\src");
+var sourceFolder = new Folder(prompt("Input folder path", "", "Remove BG Script"));
 //Add the path of an existing folder below to save the output.
-var saveFolder = new Folder("C:\\ps\\out");
+var saveFolder = new Folder(prompt("Output folder path", "", "Remove BG Script"));
 //Fill color of the background
 var colorRef = new SolidColor;
 colorRef.rgb.red = 255;
@@ -53,7 +53,7 @@ var isImageBg = true;
 
 //Now this will open every file in the file list
 for(var a = 0 ;a < fileList.length; a++){
-	//Open file in photoshop    
+	//Open file in photoshop
 	app.open(fileList[a]);
 
 	// Select subject
@@ -79,8 +79,8 @@ for(var a = 0 ;a < fileList.length; a++){
 	else{
 		app.activeDocument.selection.fill(colorRef);
 	}
-	
-	
+
+
 	//Check if it's selected to use an image as background
 	if(isImageBg){
 		//Store main document to a variable
@@ -92,11 +92,11 @@ for(var a = 0 ;a < fileList.length; a++){
 		//Switch to the main image
 		app.activeDocument = main_doc;
 	}
-	
+
 
 	//Now the image is proccessed. Next step is saving the image.
 	//Create the file name
-	var fileName = app.activeDocument.name.replace(/\.[^\.]+$/, ''); 
+	var fileName = app.activeDocument.name.replace(/\.[^\.]+$/, '');
 	pngSaveOptions = new PNGSaveOptions();
 	//Edit png options here.
 	//Save image as PNG
