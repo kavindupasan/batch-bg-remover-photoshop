@@ -7,7 +7,7 @@ https://youtu.be/6ICVsi2pWyk
 
 # Configuration 
 
-set sourse images folder: line 13
+set source images folder: line 13
 
 set output folder: line 15
 
